@@ -2,4 +2,4 @@
 
 new text to commit
 
-branch 1 changes
+branch 2 changes
